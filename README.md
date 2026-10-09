@@ -9,7 +9,8 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="mailto:danielcunha12.contato@gmail.com?subject=Ol%C3%A1%20Daniel">
+  <a href="mailto:danielcnascimento.contato@outlook.com
+?subject=Ol%C3%A1%20Daniel">
     <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
@@ -23,3 +24,22 @@
 </p>
 
 <br>
+<h3 align="center">💼 Atuação Profissional</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Analista%20de%20Dados-0A66C2?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Analista de Dados" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Arquiteto%20de%20Software-6E40C9?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="Arquiteto de Software" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Aspirante%20a%20Engenharia%20de%20Dados-2EA043?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Aspirante a Engenharia de Dados" />
+</p>
+
+<div align="center">
+
+| | Área | Foco |
+|:-:|:--|:--|
+| 📊 | **Analista de Dados** | Transformo dados em informação para apoiar decisões |
+| 🏗️ | **Arquiteto de Software** | Desenho sistemas escaláveis, organizados e sustentáveis |
+| 🚀 | **Aspirante a Engenharia de Dados** | Estudo pipelines, ETL e infraestrutura de dados |
+
+</div>
