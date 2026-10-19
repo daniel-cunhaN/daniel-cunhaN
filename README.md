@@ -14,7 +14,6 @@
   <a href="https://www.linkedin.com/in/daniel-cunha-1aa686323/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;
   <a href="mailto:danielcnascimento.contato@outlook.com?subject=Ol%C3%A1%20Daniel">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge" alt="Outlook" />
   </a>
@@ -25,8 +24,6 @@
   <img src="https://img.shields.io/badge/Analista%20de%20Dados-0A66C2?style=for-the-badge&amp;logo=googleanalytics&amp;logoColor=white" alt="Analista de Dados" />
   &nbsp;
   <img src="https://img.shields.io/badge/Arquiteto%20de%20Software-6E40C9?style=for-the-badge&amp;logo=diagramsdotnet&amp;logoColor=white" alt="Arquiteto de Software" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Aspirante%20a%20Engenharia%20de%20Dados-2EA043?style=for-the-badge&amp;logo=apacheairflow&amp;logoColor=white" alt="Aspirante a Engenharia de Dados" />
 </p>
 
 <div align="center">
@@ -35,6 +32,4 @@
 |:-:|:--|:--|
 | 📊 | **Analista de Dados** | Transformo dados em informação para apoiar decisões |
 | 🏗️ | **Arquiteto de Software** | Desenho sistemas escaláveis, organizados e sustentáveis |
-| 🚀 | **Aspirante a Engenharia de Dados** | Estudo pipelines, ETL e infraestrutura de dados |
-
 </div>
