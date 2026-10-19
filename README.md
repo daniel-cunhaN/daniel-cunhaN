@@ -19,16 +19,6 @@
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge" alt="Outlook" />
   </a>
 </p>
-
-<h3 align="center">Origami Creator</h3>
-
-<p align="center">
-  <a href="https://origamistudy.club" target="_blank" rel="noopener noreferrer">
-    <img width="325" height="330" alt="Icon" src="https://github.com/user-attachments/assets/dbbdaea6-e715-4d74-aef7-d33bd34f7ac0" />
-  </a>
-</p>
-
-<br>
 <h3 align="center">💼 Atuação Profissional</h3>
 
 <p align="center">
